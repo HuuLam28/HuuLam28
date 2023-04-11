@@ -15,15 +15,16 @@
 					border-radius: 10px;
 					color: white;
                     line-height: 1.6;
+                    padding-left: 12px;
 				}
                 .quotes-eng {
-                font-size: 18px;
+                    font-size: 18px;
                 }
                 .quotes-vi {
-                font-size: 18px;
+                    font-size: 18px;
                 }
                 .signature {
-                font-size: 16px;
+                    font-size: 16px;
                 }
 			</style>
 			<div class="container">
